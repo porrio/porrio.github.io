@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e4830f5-b9fa-4529-b1e9-932eaf997d28" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jellewoord.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/img/profile.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile.png" afterPath="$PROJECT_DIR$/img/profile.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/contact_me.php" afterPath="$PROJECT_DIR$/mail/contact_me.php" />
     </list>
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,24 +22,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="420">
+              <caret line="252" column="41" lean-forward="true" selection-start-line="252" selection-start-column="41" selection-end-line="252" selection-end-column="41" />
               <folding>
-                <marker date="1511283782000" expanded="true" signature="18610:19202" ph="..." />
-                <marker date="1511283782000" expanded="true" signature="18610:19219" ph="..." />
-                <marker date="1511283782000" expanded="true" signature="18610:19234" ph="..." />
-                <marker date="1511283782000" expanded="true" signature="18610:19247" ph="..." />
-                <marker date="1511283782000" expanded="false" signature="18610:19258" ph="..." />
-                <marker date="1511283782000" expanded="true" signature="18610:19853" ph="..." />
+                <element signature="e#11027#11033#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cabin.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cabin.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/portfolio/cabin.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -122,6 +112,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -321,7 +318,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1506000" />
+    <option name="totallyTimeSpent" value="1811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -477,21 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding>
-            <marker date="1511283782000" expanded="true" signature="18610:19202" ph="..." />
-            <marker date="1511283782000" expanded="true" signature="18610:19219" ph="..." />
-            <marker date="1511283782000" expanded="true" signature="18610:19234" ph="..." />
-            <marker date="1511283782000" expanded="true" signature="18610:19247" ph="..." />
-            <marker date="1511283782000" expanded="false" signature="18610:19258" ph="..." />
-            <marker date="1511283782000" expanded="true" signature="18610:19853" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/portfolio/cabin.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -546,6 +528,16 @@
     <entry file="file://$PROJECT_DIR$/img/profile.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="252" column="41" lean-forward="true" selection-start-line="252" selection-start-column="41" selection-end-line="252" selection-end-column="41" />
+          <folding>
+            <element signature="e#11027#11033#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
