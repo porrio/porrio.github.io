@@ -4,7 +4,6 @@
     <list default="true" id="3e4830f5-b9fa-4529-b1e9-932eaf997d28" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/cabi2n.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/img/profile.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,10 +25,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="139" column="25" lean-forward="true" selection-start-line="139" selection-start-column="25" selection-end-line="139" selection-end-column="25" />
+            <state relative-caret-position="636">
+              <caret line="149" column="16" lean-forward="false" selection-start-line="149" selection-start-column="16" selection-end-line="149" selection-end-column="16" />
               <folding>
-                <element signature="e#11101#11107#0" expanded="true" />
+                <element signature="e#11739#11745#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -319,7 +318,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4025000" />
+    <option name="totallyTimeSpent" value="4292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -533,10 +532,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="139" column="25" lean-forward="true" selection-start-line="139" selection-start-column="25" selection-end-line="139" selection-end-column="25" />
+        <state relative-caret-position="636">
+          <caret line="149" column="16" lean-forward="false" selection-start-line="149" selection-start-column="16" selection-end-line="149" selection-end-column="16" />
           <folding>
-            <element signature="e#11101#11107#0" expanded="true" />
+            <element signature="e#11739#11745#0" expanded="true" />
           </folding>
         </state>
       </provider>
