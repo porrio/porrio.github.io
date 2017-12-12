@@ -161,7 +161,7 @@
           <div class="col-lg-8 mx-auto">
             <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
             <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-            <form name="sentMessage" id="contactForm">
+            <form name="sentMessage" method="post" id="contactForm" action="https://formspree.io/jellewoord2010@gmail.com">
               <div class="control-group">
                 <div class="form-group floating-label-form-group controls mb-0 pb-2">
                   <label>Naam</label>
@@ -193,9 +193,9 @@
               <br>
               <div></div>
               <div class="form-group">
-                <button onclick="function send() {
+                <button type="submit" onclick="function send() {
                   $.ajax({ url:'//formspree.io/you@email.com', method:'POST', data: {message:'hello!'}, dataType: 'json' });
-                }">Verzenden</button>
+                }" class="btn btn-primary btn-xl">Verzenden</button>
               </div>
             </form>
           </div>
