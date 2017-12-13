@@ -6,7 +6,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/img/profile.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/img/profile.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/freelancer.min.css" afterPath="$PROJECT_DIR$/css/freelancer.min.css" />
     </list>
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
@@ -117,11 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="freelancer.min.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="freelancer.min.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/freelancer.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="4" column="3813" lean-forward="false" selection-start-line="4" selection-start-column="3813" selection-end-line="4" selection-end-column="3816" />
+              <caret line="4" column="5051" lean-forward="false" selection-start-line="4" selection-start-column="5051" selection-end-line="4" selection-end-column="5051" />
               <folding />
             </state>
           </provider>
@@ -132,6 +132,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>for</find>
+      <find>color:#18bc9c;</find>
+      <find>#18bc9c;</find>
+      <find>#18bc9c</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,6 +146,7 @@
         <option value="$PROJECT_DIR$/js/contact_me.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/freelancer.min.css" />
       </list>
     </option>
   </component>
@@ -344,7 +348,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18643000" />
+    <option name="totallyTimeSpent" value="19067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -527,14 +531,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/freelancer.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="3813" lean-forward="false" selection-start-line="4" selection-start-column="3813" selection-end-line="4" selection-end-column="3816" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/freelancer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -619,6 +615,14 @@
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/freelancer.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="5051" lean-forward="false" selection-start-line="4" selection-start-column="5051" selection-end-line="4" selection-end-column="5051" />
+          <folding />
         </state>
       </provider>
     </entry>
